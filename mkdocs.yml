@@ -166,6 +166,7 @@ nav:
   - Guides: 
     - Media: 
       - guides/media/index.md
+      - Debrid Media Manager: guides/media/debrid-media-manager.md
       - Infinite Streaming with Stremio and Jackett: guides/media/stream-from-real-debrid-with-stremio-jackett.md
       - Infinite Streaming with Plex: guides/media/stream-from-real-debrid-with-plex.md
       - Advanced Infinite Streaming with Plex and Arrs: guides/media/stream-from-real-debrid-with-plex-radarr-sonarr-prowlarr.md
