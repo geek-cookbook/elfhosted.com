@@ -47,7 +47,7 @@ In the event that the Customer's app uses excessive RAM from any service (*suppo
 
 In the event that the Customer uses excessive amount of bandwidth for the month (25TB/mo); ElfHosted reserves the right to subject the Customers bandwidth to prioritization or bandwidth limitations. 
 
-In the event that the Customer is discovered to be using an unfairly large portion of the GPU for transcoding purposes, ElfHosted may issue a warning to the Customer indicating that they are unfairly using a limited resource. Similarly, the transcoding of 4K content is strictly prohibited under any circumstance. Depending on the nature of the infraction, customers may be suspended and/or terminated.
+In the event that the Customer is discovered to be using an unfairly large portion of the GPU for transcoding purposes, ElfHosted may issue a warning to the Customer indicating that they are unfairly using a limited resource. Similarly, the transcoding of 4K content is strictly prohibited under any circumstance (*An automated process runs every minute to terminate 4K transcodes*). Depending on the nature of the infraction, customers may be suspended and/or terminated.
 
 ### Security
 
